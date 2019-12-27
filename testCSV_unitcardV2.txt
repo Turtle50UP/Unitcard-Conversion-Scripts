@@ -1,0 +1,16 @@
+{{UnitcardV2|name=Machina|cc=AW2v1|level=99|Skill=SAW|aff=150|CR=17(Min)|note=Chem. E. Waifu}}
+{{UnitcardV2|name=Rinne|cc=AW2v2|level=99|Skill=SAW|aff=150|CR=15(Min)|note=Needo Healingu}}
+{{UnitcardV2|name=Shu-Xian|cc=AW|level=99|Skill=SAW|aff=150|CR=14(Min)|note=Pikachu Down-🅱️}}
+{{UnitcardV2|name=Diera|cc=AW2v2|level=73|Skill=SAW|aff=150|CR=8(Min)|note=Lofi Nature Sounds}}
+{{UnitcardV2|name=Towa|cc=AW2v2|level=51|Skill=SAW|aff=100|CR=18|note=Witch Time Stahp}}
+{{UnitcardV2|name=Matsuri|cc=AW2v2|level=88|Skill=5/5|aff=100|CR=12(Min)|note=FIFO: Queue}}
+{{UnitcardV2|name=Risley|cc=AW|level=99|Skill=SAW|aff=150|CR=4(Min)|note=Local Shuri}}
+{{UnitcardV2|name=Frederica|cc=AW2v2|level=99|Skill=SAW|aff=150|CR=31|note=Stars+Stripes 4Ever}}
+{{UnitcardV2|name=Tenma|cc=AW|level=85|Skill=SAW|aff=150|CR=19|note=Older Megumin}}
+{{UnitcardV2|name=Miyabi|cc=AW|level=99|Skill=SAW|aff=150|CR=5(Min)|note=Morale Booster}}
+{{UnitcardV2|name=Aix|cc=AW|level=99|Skill=SAW|aff=150|CR=17|note=Me-lyse}}
+{{UnitcardV2|name=Teeny|cc=AW2v1|level=62|Skill=SAW|aff=150|CR=13|note=Size Joke Here}}
+{{UnitcardV2|name=Lapis|cc=AW2v1|level=99|Skill=SAW|aff=150|CR=25(Min)|note=Shiny Lapras}}
+{{UnitcardV2|name=Sanara (Platinum)|cc=AW|level=50|Skill=SAW|aff=100|CR=7(Min)|note=Williams-Sanara}}
+{{UnitcardV2|name=Jin-Guang Sheng-Pu|cc=AW|level=99|Skill=SAW|aff=150|CR=19(Min)|note=Chem. E. Product|nickname=Sheng-Pu}}
+{{clr}}
