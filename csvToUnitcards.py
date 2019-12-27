@@ -1,3 +1,5 @@
+import csv
+
 def modifyFilename(filename, string):
     # modifies filename to include string after filename but before extension
     # assumes provided string for filename has an extension
@@ -7,7 +9,15 @@ def modifyFilename(filename, string):
 def csvToUnitcard(filename):
     # takes a csv of data to populate unitcards, outputs a .txt file of unitcards
     #TODO
-    newFilename = modifyFilename(filename, "unitcardV2")
+    with open(filename, 'r') as csvfile:
+        csvreader = csv.reader(csvfile)
+        next(csvreader)
+        newFilename = modifyFilename(filename, "unitcardV2")
+        with open(filename, 'w') as unitcardfile:
+            for row in csvreader:
+                print(row)
+                # line = "{{UnitcardV2|"+
+                        # +"}}"
     return
 
 def unitcardToCsv(filename):
