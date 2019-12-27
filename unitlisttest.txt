@@ -1,0 +1,24 @@
+{{Template:User:Kkentauro/Personal_unit_list_start}}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Nanaly | rank=AW2v1 | level=99 | skill=5 | cr=3 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Aix | rank=AW | level=74 | skill=5 | cr=2 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Rakshasa | rank=AW | level=46 | saw=y | cr=3 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=White Emperor | rank= | level=99 | skill=10 | cr=5 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Eterna | rank=AW2v1 | level=60 | saw=y | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Karma (Black) | rank=AW | level=1 | skill=5 | cr=4 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Matsuri | rank=AW | level=1 | skill=1 | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Ibuki | rank=AW | level=36 | saw=y | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Mireille | rank=AW | level=37 | saw=y | cr=2 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Shino | rank=AW | level=1 | skill=10 | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Jin-Guang Sheng-Pu | rank= | level=62 | skill=1 | cr=0 | alias=Sheng-Pu }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Aisha | rank=AW | level=38 | skill=5 | cr=2 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Towa | rank=AW | level=36 | skill=1 | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Saval | rank=AW | level=52 | skill=10 | cr=3 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Socie | rank=AW | level=41 | saw=y | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Miyabi | rank=CC | level=36 | skill=5 | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Metus | rank= | level=52 | skill=10 | cr=2 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Clissa | rank=CC | level=36 | skill=1 | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Frederica | rank= | level= | skill= | cr= }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Sarah | rank= | level= | skill= | cr= }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Hibari | rank=CC | level=36 | skill=9 | cr=0 }}
+{{Template:User:Kkentauro/Personal_unit_list_entry | name=Shadia | rank= | level=60 | skill=10 | cr=5 }}
+{{Template:User:Kkentauro/Personal_unit_list_end}}
